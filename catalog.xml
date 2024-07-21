@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheer type = 'text.xsl' href  = 'cd_catalog.xsl' ?>
+<catalog>
+    <cd>
+        <title>Empire</title>
+        <artist>Bob Dylan</artist>
+        <country>USA</country>
+        <company>Columbia</company>
+        <price>100.1</price>
+        <year>1900</year>
+    </cd>
+</catalog>

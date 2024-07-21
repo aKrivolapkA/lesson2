@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone = "yes"?>
+<company>
+    <name>IT</name>
+    <offices>
+        <office floor="1" room="1">
+            <employee name="Maxim" job="Middle"/>
+            <employee name="Ivan" job="Junior"/>
+            <employee name="Robert" job="Middle"/>
+        </office>
+        <office floor="1" room="2">
+            <employee name="Alex" job="Middle"/>
+            <employee name="Richard" job="Junior"/>
+            <employee name="Robert" job="Middle"/>
+        </office>
+    </offices>
+</company>
